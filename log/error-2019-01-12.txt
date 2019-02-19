@@ -1,0 +1,43 @@
+(2019-01-12 04:22:20)开始爬取:法兰克福汇报
+(2019-01-12 04:23:01)爬取出错:法兰克福汇报报纸。错误原因：Message: no such session
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 04:35:32)开始爬取:曼谷邮报
+(2019-01-12 04:35:54)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 05:29:30)开始爬取:经济观察报
+(2019-01-12 05:29:36)爬取出错:经济观察报报纸。错误原因：'NoneType' object has no attribute 'group'
+(2019-01-12 05:32:07)开始爬取:法兰克福汇报
+(2019-01-12 05:32:48)爬取出错:法兰克福汇报报纸。错误原因：Message: no such session
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 05:41:27)开始爬取:曼谷邮报
+(2019-01-12 05:41:54)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 06:13:10)开始爬取:共和国报
+(2019-01-12 06:13:34)爬取出错:共和国报报纸。错误原因：Message: 
+
+(2019-01-12 06:26:45)��ȡ����:ÿ�յ�Ѷ��(���ձ�)��ֽ������ԭ��Expecting value: line 1 column 1 (char 0)
+(2019-01-12 06:27:00)��ȡ����:���ʱ����ֽ������ԭ��Expecting value: line 1 column 1 (char 0)
+(2019-01-12 06:28:10)��ȡ����:���ʱ����ֽ������ԭ��Expecting value: line 1 column 1 (char 0)
+(2019-01-12 12:00:27)开始爬取:经济观察报
+(2019-01-12 12:00:36)爬取出错:经济观察报报纸。错误原因：'NoneType' object has no attribute 'group'
+(2019-01-12 12:18:06)开始爬取:泰晤士报
+(2019-01-12 12:19:19)爬取出错:泰晤士报报纸。错误原因：Message: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 12:20:26)开始爬取:曼谷邮报
+(2019-01-12 12:20:59)爬取出错:曼谷邮报报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//DIV[@id='toc_menubody']//TBODY/TR[1]"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-12 12:22:14)开始爬取:金融时报(5份报刊)
+(2019-01-12 12:23:00)爬取出错:金融时报(5份报刊)报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='toolbar']/div/div[1]/div[2]"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+

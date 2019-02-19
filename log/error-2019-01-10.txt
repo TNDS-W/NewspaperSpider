@@ -1,0 +1,15 @@
+(2019-01-10 16:39:34)开始爬取:泰晤星期日
+(2019-01-10 16:41:24)爬取出错:泰晤星期日报纸。错误原因：list index out of range
+(2019-01-10 16:52:24)开始爬取:每日时报
+(2019-01-10 16:52:33)爬取出错:每日时报报纸。错误原因：HTTPSConnectionPool(host='dailytimes.com.pk', port=443): Max retries exceeded with url: /e-paper/ (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+(2019-01-10 16:56:37)开始爬取:泰晤士报
+(2019-01-10 16:57:49)爬取出错:泰晤士报报纸。错误原因：Message: 
+
+(2019-01-10 16:58:24)开始爬取:曼谷邮报
+(2019-01-10 16:58:43)爬取出错:曼谷邮报报纸。错误原因：local variable 'publishedtime' referenced before assignment
+(2019-01-10 17:05:12)开始爬取:中国新闻周刊
+(2019-01-10 17:10:20)爬取出错:下一页报纸。错误原因：[Errno 2] No such file or directory: 'D:\\工作\\log\\error-2019-01-10.txt'
+(2019-01-10 17:38:43)开始爬取:每日时报
+(2019-01-10 17:39:16)爬取出错:每日时报报纸。错误原因：Message: no such session
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+

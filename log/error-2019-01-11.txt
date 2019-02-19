@@ -1,0 +1,51 @@
+(2019-01-11 08:52:28)开始爬取:泰晤星期日
+(2019-01-11 08:52:43)爬取出错:泰晤星期日报纸。错误原因：Message: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 08:59:46)开始爬取:曼谷邮报
+(2019-01-11 09:00:24)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 09:35:14)开始爬取:法兰克福汇报(星期天)
+(2019-01-11 09:40:30)爬取出错:下一页报纸。错误原因：[Errno 2] No such file or directory: 'D:\\工作\\log\\error-2019-01-11.txt'
+(2019-01-11 11:42:21)开始爬取:曼谷邮报
+(2019-01-11 11:42:46)爬取出错:曼谷邮报报纸。错误原因：Message: no such element: Unable to locate element: {"method":"id","selector":"_ctl0__ctl0_MainContentPlaceHolder_MainPanel__ctl4_login__ctl0_UserName"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 14:27:15)开始爬取:每日时报
+(2019-01-11 14:27:24)爬取出错:每日时报报纸。错误原因：HTTPSConnectionPool(host='dailytimes.com.pk', port=443): Max retries exceeded with url: /e-paper/ (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+(2019-01-11 14:28:42)开始爬取:纽约时报
+(2019-01-11 14:29:36)爬取出错:纽约时报报纸。错误原因：list index out of range
+(2019-01-11 14:30:49)开始爬取:泰晤星期日
+(2019-01-11 14:30:57)爬取出错:泰晤星期日报纸。错误原因：Message: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 14:30:40)开始爬取:曼谷邮报
+(2019-01-11 14:31:05)爬取出错:曼谷邮报报纸。错误原因：local variable 'publishedtime' referenced before assignment
+(2019-01-11 14:31:56)开始爬取:金融时报(5份报刊)
+(2019-01-11 14:32:32)爬取出错:金融时报(5份报刊)报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='toolbar']/div/div[1]/div[2]"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 14:37:08)开始爬取:纽约时报
+(2019-01-11 14:37:57)爬取出错:纽约时报报纸。错误原因：Message: 
+
+(2019-01-11 14:46:52)开始爬取:每日时报
+(2019-01-11 14:47:41)爬取出错:每日时报报纸。错误原因：Message: no such session
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 14:50:20)开始爬取:曼谷邮报
+(2019-01-11 14:50:44)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-11 14:57:19)��ȡ����:������������ֽ������ԭ��HTTPSConnectionPool(host='svc.pressreader.com', port=443): Max retries exceeded with url: /services/toc/?callback=tocCallback&issue=9f702019011000000000001001&version=3&expungeVersion= (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+(2019-01-11 19:25:13)开始爬取:曼谷邮报
+(2019-01-11 19:25:34)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+

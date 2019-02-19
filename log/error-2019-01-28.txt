@@ -1,0 +1,10 @@
+(2019-01-28 09:11:15)开始爬取:法兰克福汇报
+(2019-01-28 09:11:37)爬取出错:法兰克福汇报报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul/li[1]/button[@class='btn btn-link']"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.33 (269aa0e3f0db08097f0fe231c7e6be200b6939f7),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-28 09:13:39)开始爬取:泰晤星期日
+(2019-01-28 09:14:09)爬取出错:泰晤星期日报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='calendar_menu_title']"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.33 (269aa0e3f0db08097f0fe231c7e6be200b6939f7),platform=Windows NT 10.0.17134 x86_64)
+

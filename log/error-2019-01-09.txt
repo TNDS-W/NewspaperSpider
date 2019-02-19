@@ -1,0 +1,14 @@
+(2019-01-09 09:23:41)开始爬取:日本时报
+(2019-01-09 09:25:00)爬取出错:日本时报报纸。错误原因：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+(2019-01-09 10:43:36)开始爬取:泰晤星期日
+(2019-01-09 10:44:22)爬取出错:泰晤星期日报纸。错误原因：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='calendar_menu_title']"}
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-09 12:42:35)开始爬取:曼谷邮报
+(2019-01-09 12:42:59)爬取出错:曼谷邮报报纸。错误原因：Message: no such frame
+  (Session info: chrome=70.0.3534.4)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+(2019-01-09 13:17:14)开始爬取:中国新闻周刊
+(2019-01-09 13:17:26)爬取出错:中国新闻周刊报纸。错误原因：can only concatenate str (not "int") to str
